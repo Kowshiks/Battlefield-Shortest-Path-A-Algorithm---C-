@@ -2,6 +2,8 @@
 
 The complete code is writen in C++
 
+![Answer box frame length](map_path.png)
+
 ## High Level Software structure:
 
 1. Since the battlefield can be of any size, first I ask the user to input the size of the row and column (RxC) of the battlefield. (Row and Column size can be different)
